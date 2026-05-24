@@ -163,7 +163,7 @@ SecureCarry/
 
 ## 🔧 Hardware Implementation
 
-![Hardware Implementation](hardware_implementation.jpg)
+![Hardware Implementation](hardware_implementation.png)
 
 ---
 
